@@ -359,7 +359,7 @@ print("FINAL VERIFICATION TEST")
 print("=" * 60)
 
 # Variables that can be changed
-API_KEY = "fc287fd803f3f5cd035a003bed13d514"
+API_KEY = "your api key here"
 LOCATION = "Bomet"
 DAYS = 1
 
