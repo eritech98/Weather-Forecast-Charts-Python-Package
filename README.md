@@ -339,7 +339,7 @@ Here are some example charts generated using the Weather Charts package:
 
  Image File  
 
-<a id="new-york-temperature"></a>![New York Temperature](new_york_temperature.png)
+<a id="new-york-temperature"></a>![New York Temperature](newyok_temperature.png)
 ![Tokyo Temperature](tokyo_temperature.png)       
 <a id="london-rainfall"></a>![London Rainfall](london_rainfall.png)           
 <a id="paris-pressure"></a>![Pressure](_pressure_final.png)                 
