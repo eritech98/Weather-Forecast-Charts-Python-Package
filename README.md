@@ -337,14 +337,15 @@ The package supports multiple chart types and is highly customizable to fit your
 
 Here are some example charts generated using the Weather Charts package:
 
-| Chart Type   | Location      | Image File                     |
-|--------------|---------------|--------------------------------|
-| Temperature  | New York      | <a id="new-york-temperature"></a>![New York Temperature](new_york_temperature.png) |
-| Temperature  | Tokyo         | ![Tokyo Temperature](tokyo_temperature.png)       |
-| Rainfall     | London        | <a id="london-rainfall"></a>![London Rainfall](london_rainfall.png)           |
-| Pressure     | Paris         | <a id="paris-pressure"></a>![Pressure](_pressure_final.png)                 |
-| Humidity     | Dubai         | <a id="dubai-humidity"></a>![Dubai Humidity](dubai_humidity_convenience.png) |
-| Wind         | Sydney        | <a id="sydney-wind"></a>![Wind](_wind_final.png)                        |
+ Image File  
+
+<a id="new-york-temperature"></a>![New York Temperature](new_york_temperature.png)
+![Tokyo Temperature](tokyo_temperature.png)       
+<a id="london-rainfall"></a>![London Rainfall](london_rainfall.png)           
+<a id="paris-pressure"></a>![Pressure](_pressure_final.png)                 
+<a id="dubai-humidity"></a>![Dubai Humidity](dubai_humidity_convenience.png) 
+<a id="sydney-wind"></a>![Wind](_wind_final.png)                        
+                       |
 
 ## 🔍 Final Verification Test
 
