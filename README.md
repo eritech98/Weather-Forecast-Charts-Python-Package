@@ -1,6 +1,6 @@
 # 🌤️ Weather Forecasts Charts
 
-A powerful Python package for fetching weather data and generating beautiful, professional weather charts. Perfect for weather visualization, data analysis, and meteorological applications.
+A powerful Python package for fetching forecast weather data and generating beautiful, professional charts. Built for meteorologists, analysts, and developers who need reliable visualization for forecasting, reporting, and decision support.
 
 ![Weather Charts](https://img.shields.io/badge/python-3.7%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
